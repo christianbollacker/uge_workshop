@@ -1,6 +1,8 @@
 > this will take the comand and put it a file that you are creating
 >> will append the ouput of the command and put it into a file that  is already there.  If the file does not exist, it will be created.
 
+I am making modifications to save for a new commit.
+
 hisotory > moving_around.txt
 cd
 fish_prompt 
