@@ -3,6 +3,9 @@
 
 I am making modifications to save for a new commit.
 
+Labels point to commits:
+HEAD - Alaways point to the latest commit.
+
 hisotory > moving_around.txt
 cd
 fish_prompt 
