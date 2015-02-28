@@ -1,0 +1,36 @@
+> this will take the comand and put it a file that you are creating
+>> will append the ouput of the command and put it into a file that  is already there.  If the file does not exist, it will be created.
+
+hisotory > moving_around.txt
+cd
+fish_prompt 
+history | less
+history 
+help
+ls .
+clear
+cd Documents/
+cd D
+clear_console 
+clea
+cd ..
+cd .
+uname
+pwd
+cd ~/
+la
+man ls
+ls -lrX 
+ls - lrX
+ls -lX
+ls -ll
+ls
+man
+la man
+ls -a
+ls -ltr
+ls -r
+ls -lt
+ls -l
+ls -t
+cd /
