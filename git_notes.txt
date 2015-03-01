@@ -1,3 +1,5 @@
 This is the start of Branches and how to use them.
 
 To make a branch type git branch (and then the name of the branch you want to create.)
+
+I am not seeing Origin/Master as a branch when I check the git branch command.
